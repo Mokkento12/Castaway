@@ -105,6 +105,10 @@ body {
   list-style: none;
 }
 
+.hero-link {
+  cursor: pointer;
+}
+
 .hero-link:not(:last-child) {
   margin-right: 17px;
 }
