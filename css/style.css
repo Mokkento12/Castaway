@@ -51,7 +51,7 @@ body {
 .hero-block {
   display: flex;
   max-width: 1300px;
-  margin: 100px auto;
+  margin: 100px auto 0;
 }
 
 .image-container {
@@ -116,7 +116,7 @@ body {
 .hero-text span::after {
   content: "";
   position: absolute;
-  bottom: -10px;
+  bottom: -5px;
   left: 50%;
   transform: translateX(-50%);
   display: inline-block;
