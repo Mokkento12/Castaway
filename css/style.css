@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1300px;
   margin: auto;
 }
 
@@ -50,7 +50,6 @@ body {
 
 .hero-block {
   display: flex;
-  max-width: 1300px;
   margin: 100px auto 0;
 }
 
@@ -131,7 +130,6 @@ body {
 }
 
 .episodes {
-  max-width: 1300px;
   padding: 100px 50px 160px;
 }
 
@@ -233,7 +231,6 @@ body {
 .guest-container {
   display: flex;
   align-items: center;
-  max-width: 1300px;
   padding: 100px 50px;
 }
 
@@ -296,7 +293,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 1300px;
   height: 387px;
   border-radius: 32px;
   background: #000;
@@ -359,7 +355,6 @@ body {
 
 .testimonials {
   width: 100%;
-  max-width: 1300px;
   padding: 100px 0;
 }
 
@@ -407,7 +402,6 @@ body {
 }
 
 .footer-container {
-  max-width: 1300px;
   margin: auto;
   display: flex;
   justify-content: space-evenly;
